@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.cb3ea77bc303d8e379aca0c0916cafac?rik=Y6DYZIYKjjA3ag&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f9%2f2%2f29702.jpg&ehk=XzBkKN86zXbM%2fLyfdNITGljJEUEH%2blam0UL%2btdeZRA8%3d&risl=&pid=ImgRaw&r=0");
+}
+
+div{
+    background-color: #444444;
+    width:1000px;
+    margin:auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+p{
+    color:antiquewhite;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    opacity:0.5;
+    border-radius: 20px;
+}
+img:hover{
+    opacity: 1;
+    block-size: 400px;
+}
